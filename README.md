@@ -4,7 +4,7 @@
 * Balneabilidade das Praias da Baixada Santista
 * Abastecimento de água na Baixada Santista
 
-## Links
+## __Links:__
 __Portal ArcGIS da Cetesb:__ https://arcgis.cetesb.sp.gov.br/portal/home/
 
 __Mapa de Qualidade das Praias:__ https://arcgis.cetesb.sp.gov.br/portal/apps/experiencebuilder/experience/?id=bdd0cbd4bf094df9a000bf663254c21f&page=Classifica%C3%A7%C3%A3o-Anual
