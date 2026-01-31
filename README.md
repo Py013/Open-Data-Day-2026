@@ -1,4 +1,4 @@
-# Open-Data-Day-2026
+# Open Data Day 2026
 
 ## __Temas:__
 * Balneabilidade das Praias da Baixada Santista
