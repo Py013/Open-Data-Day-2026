@@ -48,4 +48,5 @@ __Link de Inscrição:__ [Sympla](https://www.sympla.com.br/evento/07-03-26-open
 * ### [Dados Abertos da Prefeitura de Santos](https://egov.santos.sp.gov.br/dadosabertos/)
 * ### [Códigos dos Municípios do IBGE - Arquivo ZIP](https://geoftp.ibge.gov.br/organizacao_do_territorio/estrutura_territorial/divisao_territorial/2024/DTB_2024.zip)
 * ### [Plataforma de Dados do IBGE - Arquivos ou acesso pelo Big Query](https://basedosdados.org/)
+* ### [ANA - Agência Nacional de Águas - Balanço Hídrico Quali-Quantitativo por Bacia](https://dadosabertos.ana.gov.br/datasets/9c6f901f4ca4489b9aeab59a6d3c1a6f_0/explore?location=-14.236700%2C-54.436400%2C4)
   
