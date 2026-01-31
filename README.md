@@ -1,7 +1,7 @@
 # Open-Data-Day-2026
 
 __Temas:__
-*Balneabilidade das Praias da Baixada Santista
+* Balneabilidade das Praias da Baixada Santista
 * Abastecimento de água na Baixada Santista
 
 ## Links
