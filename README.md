@@ -1,5 +1,9 @@
 # Open Data Day 2026
 
+
+__O Dia dos Dados Abertos (ODD, na sigla em inglês)__ é uma celebração anual dos dados abertos em todo o mundo . Grupos de praticamente todos os países criam eventos locais neste dia, nos quais utilizam dados abertos em suas comunidades. O ODD é mantido e apoiado pela [Open Knowledge Foundation](https://okfn.org/en/) por meio da [Open Knowledge Network](https://okfn.org/en/network/).
+
+
 ## __Locais:__
 * Procomum
   Endereço: Rua Sete de Setembro, 52 - Vila Nova, Santos/SP, CEP 11013-350
