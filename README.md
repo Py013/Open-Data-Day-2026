@@ -11,7 +11,7 @@ __Mapa de Qualidade das Praias:__ https://arcgis.cetesb.sp.gov.br/portal/apps/ex
 
 
 <p align="center">
-  # Critérios para Classificação das Praias
+  <h1> Critérios para Classificação das Praias </h1>
 </p>
 
 
