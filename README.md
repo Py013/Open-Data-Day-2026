@@ -2,9 +2,10 @@
 
 
 __O Dia dos Dados Abertos (ODD, na sigla em inglês)__ é uma celebração anual dos dados abertos em todo o mundo . Grupos de praticamente todos os países criam eventos locais neste dia, nos quais utilizam dados abertos em suas comunidades. O ODD é mantido e apoiado pela [Open Knowledge Foundation](https://okfn.org/en/) por meio da [Open Knowledge Network](https://okfn.org/en/network/).
+Este ano realizaremos o evento em parceria com a comunidade [Sociedade Pinguim](https://sociedadepinguim.com.br/),  que é uma comunidade brasileira ativa de entusiastas de tecnologia, focada em software livre, Linux, programação e jogos.
 
 
-## __Locais:__
+## __Locais dos Encontros na Baixada Santista:__
 * Procomum
   Endereço: Rua Sete de Setembro, 52 - Vila Nova, Santos/SP, CEP 11013-350
  Mapa: https://maps.app.goo.gl/pabxoNSGJQqdNxDh6
@@ -12,6 +13,20 @@ __O Dia dos Dados Abertos (ODD, na sigla em inglês)__ é uma celebração anual
 * Parque Tecnológico de Santos
   Endereço: Rua Henrique Porchat, 47 - Vila Nova, Santos - SP, CEP 11013-510
   Mapa: https://maps.app.goo.gl/VrSgHmE6WUmk3KYS8
+
+## __Datas dos Encontros:__
+* Primeiro "Esquenta"
+  __Data:__ 31/01/2026 - Realizado
+  __Local:__ [Procomum](https://procomum.org/)
+
+* Segundo "Esquenta"
+  __Data:__ 21/02/2026
+  __Local:__ [Procomum](https://procomum.org/)
+
+* Evento Open Data Day 2026"
+  __Data:__ 07/03/2026
+  __Local:__ a definir
+  Link de Inscrição: [Sympla](https://www.sympla.com.br/evento/07-03-26-open-data-day-2026-py013/3278099?_gl=1*1o0uxbc*_gcl_au*MTQ2MDgxODgwNy4xNzY5OTAyMTEw*_ga*MTYwMzUxNjc5NS4xNzY5OTAyMTEx*_ga_KXH10SQTZF*czE3Njk5MDIxMTEkbzEkZzEkdDE3Njk5MDIxMjkkajQyJGwwJGgxOTQ2MjI3Mjk1)
   
 ## __Temas:__
 * Balneabilidade das Praias da Baixada Santista
