@@ -46,3 +46,6 @@ __Link de Inscrição:__ [Sympla](https://www.sympla.com.br/evento/07-03-26-open
 * ### [Publicações e Relatórios da Cetesb](https://cetesb.sp.gov.br/praias/publicacoes-relatorios/)
 * ### [Boletim Epidemiológico de Santos](https://www.santos.sp.gov.br/static/files_www/files/portal_files/SAUDE/boletim_7-_2025_divulgacao2.pdf)
 * ### [Dados Abertos da Prefeitura de Santos](https://egov.santos.sp.gov.br/dadosabertos/)
+* ### [Códigos dos Municípios do IBGE - Arquivo ZIP](https://geoftp.ibge.gov.br/organizacao_do_territorio/estrutura_territorial/divisao_territorial/2024/DTB_2024.zip)
+* ### [Plataforma de Dados do IBGE - Arquivos ou acesso pelo Big Query](https://basedosdados.org/)
+  
