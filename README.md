@@ -15,17 +15,17 @@ Este ano realizaremos o evento em parceria com a comunidade [Sociedade Pinguim](
   Mapa: https://maps.app.goo.gl/VrSgHmE6WUmk3KYS8
 
 ## __Datas dos Encontros:__
-* Primeiro "Esquenta"
-__Data:__ 31/01/2026 - Realizado
+* Primeiro "Esquenta"  
+__Data:__ 31/01/2026 - Realizado  
 __Local:__ [Procomum](https://procomum.org/)
 
-* Segundo "Esquenta"
-__Data:__ 21/02/2026
+* Segundo "Esquenta"  
+__Data:__ 21/02/2026  
 __Local:__ [Procomum](https://procomum.org/)
 
-* Evento Open Data Day 2026"
-__Data:__ 07/03/2026
-__Local:__ a definir
+* Evento Open Data Day 2026"  
+__Data:__ 07/03/2026  
+__Local:__ a definir  
 __Link de Inscrição:__ [Sympla](https://www.sympla.com.br/evento/07-03-26-open-data-day-2026-py013/3278099?_gl=1*1o0uxbc*_gcl_au*MTQ2MDgxODgwNy4xNzY5OTAyMTEw*_ga*MTYwMzUxNjc5NS4xNzY5OTAyMTEx*_ga_KXH10SQTZF*czE3Njk5MDIxMTEkbzEkZzEkdDE3Njk5MDIxMjkkajQyJGwwJGgxOTQ2MjI3Mjk1)
   
 ## __Temas:__
