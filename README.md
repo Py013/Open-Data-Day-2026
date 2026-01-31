@@ -1,5 +1,8 @@
 # Open-Data-Day-2026
 
+__Temas:__
+*Balneabilidade das Praias da Baixada Santista
+* Abastecimento de água na Baixada Santista
 
 ## Links
 __Portal ArcGIS da Cetesb:__ https://arcgis.cetesb.sp.gov.br/portal/home/
