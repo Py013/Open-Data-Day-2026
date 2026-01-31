@@ -14,4 +14,5 @@ __Mapa de Qualidade das Praias:__ https://arcgis.cetesb.sp.gov.br/portal/apps/ex
   <h2> Critérios para Classificação das Praias </h1>
 </p>
 
+
 ![Critérios de Cassificação das Praias](https://cetesb.sp.gov.br/praias/wp-content/uploads/sites/31/2013/11/criterios-tab-1.jpg)
