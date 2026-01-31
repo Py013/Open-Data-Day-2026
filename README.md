@@ -18,7 +18,7 @@
 
 ![Critérios de Cassificação das Praias](https://cetesb.sp.gov.br/praias/wp-content/uploads/sites/31/2013/11/criterios-tab-1.jpg)
 
-## __([Programa de Monitoramento](https://cetesb.sp.gov.br/praias/programa-de-monitoramento/))__
+## __[Programa de Monitoramento](https://cetesb.sp.gov.br/praias/programa-de-monitoramento/)__
 
 
 
