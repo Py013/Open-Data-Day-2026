@@ -50,4 +50,5 @@ __Link de Inscrição:__ [Sympla](https://www.sympla.com.br/evento/07-03-26-open
 * ### [Plataforma de Dados do IBGE - Arquivos ou acesso pelo Big Query](https://basedosdados.org/)
 * ### [ANA - Agência Nacional de Águas - Balanço Hídrico Quali-Quantitativo por Bacia](https://dadosabertos.ana.gov.br/datasets/9c6f901f4ca4489b9aeab59a6d3c1a6f_0/explore?location=-14.236700%2C-54.436400%2C4)
 * ### [Boletim Semanal das Praias - Cetesb](https://cetesb.sp.gov.br/praias/boletim-semanal/)
+* ### [Tabela de UGRHI - Unidade de Gerenciamento de Recursos Hídricos](https://sigrh.sp.gov.br/municipios)
   
