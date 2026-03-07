@@ -1,0 +1,352 @@
+[
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "BOA", "municipio": "UBATUBA", "ano_2024": "REGULAR", "ano_2023": "RUIM", "praia": "PICINGUABA", "longitude": -44.838033332688475, "latitude": -23.378113889645483
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "BOA", "ano_2021": "BOA", "ano_2020": "BOA", "municipio": "UBATUBA", "ano_2024": "REGULAR", "ano_2023": "RUIM", "praia": "LAGOA PRUMIRIM", "longitude": -44.95578055632145, "latitude": -23.378733333521524
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "OTIMA", "ano_2021": "OTIMA", "ano_2020": "BOA", "municipio": "UBATUBA", "ano_2024": "OTIMA", "ano_2023": "OTIMA", "praia": "PRUMIRIM", "longitude": -44.95747222194275, "latitude": -23.379194444602884
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "BOA", "ano_2021": "BOA", "ano_2020": "BOA", "municipio": "UBATUBA", "ano_2024": "REGULAR", "ano_2023": "REGULAR", "praia": "FÉLIX", "longitude": -44.97172777775466, "latitude": -23.38916111139311
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "BOA", "ano_2020": "BOA", "municipio": "UBATUBA", "ano_2024": "BOA", "ano_2023": "REGULAR", "praia": "ITAMAMBUCA", "longitude": -45.00344444353624, "latitude": -23.402250000198567
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "RUIM", "ano_2020": "PESSIMA", "municipio": "UBATUBA", "ano_2024": "PESSIMA", "ano_2023": "RUIM", "praia": "RIO ITAMAMBUCA", "longitude": -45.009336111388954, "latitude": -23.406100000677856
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "BOA", "ano_2020": "BOA", "municipio": "UBATUBA", "ano_2024": "BOA", "ano_2023": "OTIMA", "praia": "VERMELHA DO NORTE", "longitude": -45.038683332975744, "latitude": -23.418650000294402
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "BOA", "ano_2020": "BOA", "municipio": "UBATUBA", "ano_2024": "REGULAR", "ano_2023": "REGULAR", "praia": "PEREQUÊ-AÇU", "longitude": -45.06411666661871, "latitude": -23.423627778688914
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "RUIM", "municipio": "UBATUBA", "ano_2024": "RUIM", "ano_2023": "REGULAR", "praia": "IPEROIG", "longitude": -45.06945555615947, "latitude": -23.4348083337248
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "RUIM", "ano_2021": "PESSIMA", "ano_2020": "PESSIMA", "municipio": "UBATUBA", "ano_2024": "PESSIMA", "ano_2023": "PESSIMA", "praia": "ITAGUÁ - Nº 240", "longitude": -45.066505556410156, "latitude": -23.44853055640306
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "PESSIMA", "ano_2021": "PESSIMA", "ano_2020": "PESSIMA", "municipio": "UBATUBA", "ano_2024": "PESSIMA", "ano_2023": "PESSIMA", "praia": "ITAGUÁ - Nº 1676", "longitude": -45.05785555561579, "latitude": -23.458216667012643
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "BOA", "ano_2021": "BOA", "ano_2020": "BOA", "municipio": "UBATUBA", "ano_2024": "BOA", "ano_2023": "BOA", "praia": "TENÓRIO", "longitude": -45.05537222169696, "latitude": -23.464705556326273
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "BOA", "ano_2021": "OTIMA", "ano_2020": "OTIMA", "municipio": "UBATUBA", "ano_2024": "OTIMA", "ano_2023": "BOA", "praia": "VERMELHA", "longitude": -45.04919166734665, "latitude": -23.463550000696497
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "BOA", "ano_2021": "BOA", "ano_2020": "BOA", "municipio": "UBATUBA", "ano_2024": "BOA", "ano_2023": "BOA", "praia": "GRANDE", "longitude": -45.067047222417706, "latitude": -23.472458333007754
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "BOA", "ano_2020": "BOA", "municipio": "UBATUBA", "ano_2024": "BOA", "ano_2023": "BOA", "praia": "TONINHAS", "longitude": -45.07371388899125, "latitude": -23.48482222232488
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "REGULAR", "municipio": "UBATUBA", "ano_2024": "REGULAR", "ano_2023": "REGULAR", "praia": "ENSEADA", "longitude": -45.08969166729835, "latitude": -23.492491667459557
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "BOA", "municipio": "UBATUBA", "ano_2024": "REGULAR", "ano_2023": "REGULAR", "praia": "SANTA RITA", "longitude": -45.10268888944666, "latitude": -23.493783333274127
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "PESSIMA", "ano_2021": "PESSIMA", "ano_2020": "PESSIMA", "municipio": "UBATUBA", "ano_2024": "REGULAR", "ano_2023": "PESSIMA", "praia": "PEREQUÊ-MIRIM", "longitude": -45.10451666741635, "latitude": -23.489008333729203
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "BOA", "ano_2021": "BOA", "ano_2020": "BOA", "municipio": "UBATUBA", "ano_2024": "REGULAR", "ano_2023": "BOA", "praia": "SUNUNGA", "longitude": -45.13285833310117, "latitude": -23.508900000426436
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "RUIM", "ano_2021": "REGULAR", "ano_2020": "REGULAR", "municipio": "UBATUBA", "ano_2024": "RUIM", "ano_2023": "RUIM", "praia": "LÁZARO", "longitude": -45.13466666734939, "latitude": -23.504608333560547
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "BOA", "municipio": "UBATUBA", "ano_2024": "BOA", "ano_2023": "BOA", "praia": "DOMINGAS DIAS", "longitude": -45.144472221890936, "latitude": -23.498033332948985
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "REGULAR", "municipio": "UBATUBA", "ano_2024": "BOA", "ano_2023": "REGULAR", "praia": "DURA", "longitude": -45.17202777787363, "latitude": -23.493858333325136
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "BOA", "ano_2021": "SEM DADO", "ano_2020": "SEM DADO", "municipio": "UBATUBA", "ano_2024": "REGULAR", "ano_2023": "RUIM", "praia": "FORTALEZA", "longitude": -45.16616666670972, "latitude": -23.529400000621703
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "OTIMA", "ano_2020": "BOA", "municipio": "UBATUBA", "ano_2024": "BOA", "ano_2023": "BOA", "praia": "LAGOINHA - AV. ENG. VELHO", "longitude": -45.19890277838914, "latitude": -23.519777778494404
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "BOA", "ano_2020": "BOA", "municipio": "UBATUBA", "ano_2024": "BOA", "ano_2023": "BOA", "praia": "LAGOINHA - CAMPING", "longitude": -45.21633333297463, "latitude": -23.527622222731992
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "BOA", "ano_2020": "BOA", "municipio": "UBATUBA", "ano_2024": "BOA", "ano_2023": "BOA", "praia": "SAPÉ", "longitude": -45.22435277836778, "latitude": -23.53228055611045
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "REGULAR", "municipio": "UBATUBA", "ano_2024": "BOA", "ano_2023": "BOA", "praia": "MARANDUBA", "longitude": -45.228674999697624, "latitude": -23.53880555670758
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "BOA", "ano_2021": "OTIMA", "ano_2020": "SEM DADO", "municipio": "UBATUBA", "ano_2024": "OTIMA", "ano_2023": "OTIMA", "praia": "PULSO", "longitude": -45.2199166666688, "latitude": -23.557019443981215
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "RUIM", "ano_2021": "RUIM", "ano_2020": "REGULAR", "municipio": "CARAGUATATUBA", "ano_2024": "RUIM", "ano_2023": "RUIM", "praia": "TABATINGA - RIO", "longitude": -45.27682777794669, "latitude": -23.575969444742405
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "BOA", "ano_2021": "BOA", "ano_2020": "BOA", "municipio": "CARAGUATATUBA", "ano_2024": "OTIMA", "ano_2023": "OTIMA", "praia": "TABATINGA - CONDOM", "longitude": -45.28835555576056, "latitude": -23.572722222090828
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "BOA", "ano_2021": "BOA", "ano_2020": "BOA", "municipio": "CARAGUATATUBA", "ano_2024": "BOA", "ano_2023": "BOA", "praia": "MOCÓCA", "longitude": -45.29984999964971, "latitude": -23.572619444137487
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "BOA", "ano_2020": "REGULAR", "municipio": "CARAGUATATUBA", "ano_2024": "REGULAR", "ano_2023": "REGULAR", "praia": "COCANHA", "longitude": -45.31580555576915, "latitude": -23.577402778133724
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "OTIMA", "ano_2020": "OTIMA", "municipio": "CARAGUATATUBA", "ano_2024": "BOA", "ano_2023": "REGULAR", "praia": "CAPRICÓRNIO", "longitude": -45.35019999990574, "latitude": -23.60973888962911
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "PESSIMA", "ano_2021": "OTIMA", "ano_2020": "BOA", "municipio": "CARAGUATATUBA", "ano_2024": "REGULAR", "ano_2023": "BOA", "praia": "LAGOA AZUL", "longitude": -45.35706388898779, "latitude": -23.621636110980734
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "RUIM", "municipio": "CARAGUATATUBA", "ano_2024": "BOA", "ano_2023": "REGULAR", "praia": "MARTIM DE SÁ", "longitude": -45.382402778363435, "latitude": -23.62751111145208
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "RUIM", "ano_2021": "REGULAR", "ano_2020": "REGULAR", "municipio": "CARAGUATATUBA", "ano_2024": "PESSIMA", "ano_2023": "RUIM", "praia": "PRAINHA", "longitude": -45.39078611088626, "latitude": -23.631094444488593
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "RUIM", "municipio": "CARAGUATATUBA", "ano_2024": "REGULAR", "ano_2023": "RUIM", "praia": "CENTRO", "longitude": -45.40760555581491, "latitude": -23.623680556686637
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "RUIM", "ano_2021": "RUIM", "ano_2020": "PESSIMA", "municipio": "CARAGUATATUBA", "ano_2024": "RUIM", "ano_2023": "RUIM", "praia": "INDAIÁ", "longitude": -45.41794166721565, "latitude": -23.633452778206927
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "BOA", "ano_2020": "REGULAR", "municipio": "CARAGUATATUBA", "ano_2024": "REGULAR", "ano_2023": "BOA", "praia": "PAN BRASIL", "longitude": -45.42308888869716, "latitude": -23.642652778739254
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "REGULAR", "municipio": "CARAGUATATUBA", "ano_2024": "REGULAR", "ano_2023": "REGULAR", "praia": "PALMEIRAS", "longitude": -45.42650833275237, "latitude": -23.651394444128734
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "RUIM", "municipio": "CARAGUATATUBA", "ano_2024": "REGULAR", "ano_2023": "BOA", "praia": "PORTO NOVO", "longitude": -45.43001111058538, "latitude": -23.694208332970565
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "PESSIMA", "municipio": "SÃO SEBASTIÃO", "ano_2024": "RUIM", "ano_2023": "RUIM", "praia": "PRAINHA", "longitude": -45.41218611082899, "latitude": -23.724516667542687
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "RUIM", "municipio": "SÃO SEBASTIÃO", "ano_2024": "RUIM", "ano_2023": "REGULAR", "praia": "CIGARRAS", "longitude": -45.39948055588971, "latitude": -23.73079166736477
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "PESSIMA", "ano_2021": "RUIM", "ano_2020": "PESSIMA", "municipio": "SÃO SEBASTIÃO", "ano_2024": "RUIM", "ano_2023": "RUIM", "praia": "SÃO FRANCISCO", "longitude": -45.4093555564394, "latitude": -23.760183333565962
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "BOA", "ano_2020": "PESSIMA", "municipio": "SÃO SEBASTIÃO", "ano_2024": "REGULAR", "ano_2023": "REGULAR", "praia": "ARRASTÃO", "longitude": -45.40330277763964, "latitude": -23.770658332866766
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "RUIM", "ano_2021": "RUIM", "ano_2020": "RUIM", "municipio": "SÃO SEBASTIÃO", "ano_2024": "RUIM", "ano_2023": "RUIM", "praia": "PONTAL DA CRUZ", "longitude": -45.40034166699047, "latitude": -23.777413889740714
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "PESSIMA", "municipio": "SÃO SEBASTIÃO", "ano_2024": "RUIM", "ano_2023": "REGULAR", "praia": "DESERTA", "longitude": -45.398786110948365, "latitude": -23.785719444577172
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "RUIM", "ano_2021": "RUIM", "ano_2020": "PESSIMA", "municipio": "SÃO SEBASTIÃO", "ano_2024": "REGULAR", "ano_2023": "REGULAR", "praia": "PORTO GRANDE", "longitude": -45.39868888869836, "latitude": -23.792655556490963
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "RUIM", "ano_2021": "RUIM", "ano_2020": "PESSIMA", "municipio": "SÃO SEBASTIÃO", "ano_2024": "REGULAR", "ano_2023": "RUIM", "praia": "PRETA DO NORTE", "longitude": -45.41064444388218, "latitude": -23.821094443973482
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "BOA", "ano_2021": "OTIMA", "ano_2020": "BOA", "municipio": "SÃO SEBASTIÃO", "ano_2024": "REGULAR", "ano_2023": "BOA", "praia": "GRANDE", "longitude": -45.4149416671754, "latitude": -23.82301666697533
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "BOA", "ano_2021": "OTIMA", "ano_2020": "REGULAR", "municipio": "SÃO SEBASTIÃO", "ano_2024": "BOA", "ano_2023": "REGULAR", "praia": "BARAQUEÇABA", "longitude": -45.43461388912752, "latitude": -23.827702777888007
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "OTIMA", "ano_2021": "OTIMA", "ano_2020": "REGULAR", "municipio": "SÃO SEBASTIÃO", "ano_2024": "BOA", "ano_2023": "OTIMA", "praia": "GUAECÁ", "longitude": -45.45846111052854, "latitude": -23.821547222396347
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "OTIMA", "ano_2020": "REGULAR", "municipio": "SÃO SEBASTIÃO", "ano_2024": "BOA", "ano_2023": "REGULAR", "praia": "TOQUE-TOQUE GRANDE", "longitude": -45.51088888924558, "latitude": -23.834100000377884
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "BOA", "ano_2021": "BOA", "ano_2020": "BOA", "municipio": "SÃO SEBASTIÃO", "ano_2024": "REGULAR", "ano_2023": "REGULAR", "praia": "TOQUE-TOQUE PEQUENO", "longitude": -45.5345444437005, "latitude": -23.817625000289638
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "BOA", "ano_2021": "OTIMA", "ano_2020": "REGULAR", "municipio": "SÃO SEBASTIÃO", "ano_2024": "REGULAR", "ano_2023": "REGULAR", "praia": "SANTIAGO", "longitude": -45.54042777800169, "latitude": -23.81114722228239
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "BOA", "ano_2021": "BOA", "ano_2020": "REGULAR", "municipio": "SÃO SEBASTIÃO", "ano_2024": "REGULAR", "ano_2023": "REGULAR", "praia": "PAÚBA", "longitude": -45.5522611112659, "latitude": -23.80256944463324
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "BOA", "ano_2021": "BOA", "ano_2020": "REGULAR", "municipio": "SÃO SEBASTIÃO", "ano_2024": "BOA", "ano_2023": "REGULAR", "praia": "MARESIAS", "longitude": -45.55881388932647, "latitude": -23.79221388940453
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "BOA", "ano_2021": "OTIMA", "ano_2020": "OTIMA", "municipio": "SÃO SEBASTIÃO", "ano_2024": "OTIMA", "ano_2023": "REGULAR", "praia": "MARESIAS - TOTEM", "longitude": -45.57469166694047, "latitude": -23.791586110945566
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "REGULAR", "municipio": "SÃO SEBASTIÃO", "ano_2024": "REGULAR", "ano_2023": "REGULAR", "praia": "BOIÇUCANGA", "longitude": -45.62779166654101, "latitude": -23.78474166752828
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "BOA", "ano_2021": "BOA", "ano_2020": "BOA", "municipio": "SÃO SEBASTIÃO", "ano_2024": "OTIMA", "ano_2023": "REGULAR", "praia": "CAMBURIZINHO", "longitude": -45.64394999976085, "latitude": -23.7773944446313
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "BOA", "ano_2020": "REGULAR", "municipio": "SÃO SEBASTIÃO", "ano_2024": "BOA", "ano_2023": "REGULAR", "praia": "CAMBURI", "longitude": -45.65244166652305, "latitude": -23.777863889289417
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "BOA", "ano_2021": "OTIMA", "ano_2020": "OTIMA", "municipio": "SÃO SEBASTIÃO", "ano_2024": "OTIMA", "ano_2023": "REGULAR", "praia": "BALEIA", "longitude": -45.67505555622313, "latitude": -23.77391111156358
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "BOA", "ano_2020": "REGULAR", "municipio": "SÃO SEBASTIÃO", "ano_2024": "REGULAR", "ano_2023": "REGULAR", "praia": "SAÍ", "longitude": -45.695538888599906, "latitude": -23.7743888890621
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "BOA", "ano_2021": "BOA", "ano_2020": "REGULAR", "municipio": "SÃO SEBASTIÃO", "ano_2024": "BOA", "ano_2023": "REGULAR", "praia": "PRETA", "longitude": -45.714072222130625, "latitude": -23.77143055639386
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "BOA", "ano_2020": "RUIM", "municipio": "SÃO SEBASTIÃO", "ano_2024": "BOA", "ano_2023": "REGULAR", "praia": "JUQUEÍ - TRAV. SIMÃO FAUSTINO", "longitude": -45.72843611105608, "latitude": -23.768888889488288
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "OTIMA", "ano_2020": "REGULAR", "municipio": "SÃO SEBASTIÃO", "ano_2024": "OTIMA", "ano_2023": "REGULAR", "praia": "JUQUEÍ - R. CRISTIANA", "longitude": -45.742977778364065, "latitude": -23.767130555926414
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "BOA", "municipio": "SÃO SEBASTIÃO", "ano_2024": "BOA", "ano_2023": "BOA", "praia": "UNA", "longitude": -45.76468888874248, "latitude": -23.762275000079704
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "BOA", "ano_2020": "RUIM", "municipio": "SÃO SEBASTIÃO", "ano_2024": "BOA", "ano_2023": "REGULAR", "praia": "ENGENHO", "longitude": -45.781369444261294, "latitude": -23.76390833345615
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "BOA", "ano_2021": "OTIMA", "ano_2020": "OTIMA", "municipio": "SÃO SEBASTIÃO", "ano_2024": "BOA", "ano_2023": "OTIMA", "praia": "JUREIA DO NORTE", "longitude": -45.787744443747904, "latitude": -23.764986111101678
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "REGULAR", "municipio": "SÃO SEBASTIÃO", "ano_2024": "REGULAR", "ano_2023": "REGULAR", "praia": "BORACEIA", "longitude": -45.801374999635435, "latitude": -23.76161944452674
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "BOA", "ano_2020": "REGULAR", "municipio": "SÃO SEBASTIÃO", "ano_2024": "BOA", "ano_2023": "REGULAR", "praia": "BORACEIA - R. CUBATÃO", "longitude": -45.82469444396304, "latitude": -23.755733333057147
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "RUIM", "ano_2021": "REGULAR", "ano_2020": "REGULAR", "municipio": "ILHABELA", "ano_2024": "REGULAR", "ano_2023": "RUIM", "praia": "ARMAÇÃO", "longitude": -45.345161110975866, "latitude": -23.73851666734267
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "REGULAR", "municipio": "ILHABELA", "ano_2024": "RUIM", "ano_2023": "REGULAR", "praia": "PINTO", "longitude": -45.349011110602525, "latitude": -23.742230556247144
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "RUIM", "ano_2021": "BOA", "ano_2020": "BOA", "municipio": "ILHABELA", "ano_2024": "REGULAR", "ano_2023": "REGULAR", "praia": "SINO", "longitude": -45.34775277780708, "latitude": -23.747552778706513
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "BOA", "ano_2020": "RUIM", "municipio": "ILHABELA", "ano_2024": "REGULAR", "ano_2023": "REGULAR", "praia": "SIRIÚBA", "longitude": -45.34928888851433, "latitude": -23.753422222132258
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "RUIM", "municipio": "ILHABELA", "ano_2024": "REGULAR", "ano_2023": "REGULAR", "praia": "VIANA", "longitude": -45.3510194435534, "latitude": -23.758577778000067
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "BOA", "municipio": "ILHABELA", "ano_2024": "REGULAR", "ano_2023": "BOA", "praia": "BARREIROS NORTE", "longitude": -45.34928333290729, "latitude": -23.762741667340137
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "PESSIMA", "municipio": "ILHABELA", "ano_2024": "RUIM", "ano_2023": "REGULAR", "praia": "BARREIROS SUL", "longitude": -45.348925000131565, "latitude": -23.764586111563275
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "RUIM", "ano_2020": "REGULAR", "municipio": "ILHABELA", "ano_2024": "BOA", "ano_2023": "BOA", "praia": "SACO DA CAPELA", "longitude": -45.35800833269114, "latitude": -23.78384166692969
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "REGULAR", "municipio": "ILHABELA", "ano_2024": "REGULAR", "ano_2023": "BOA", "praia": "ENGENHO D'ÁGUA", "longitude": -45.363780556400386, "latitude": -23.79129722203032
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "RUIM", "ano_2021": "PESSIMA", "ano_2020": "PESSIMA", "municipio": "ILHABELA", "ano_2024": "RUIM", "ano_2023": "PESSIMA", "praia": "ITAQUANDUBA", "longitude": -45.364972222404525, "latitude": -23.79976666718793
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "RUIM", "ano_2021": "RUIM", "ano_2020": "PESSIMA", "municipio": "ILHABELA", "ano_2024": "REGULAR", "ano_2023": "RUIM", "praia": "ITAGUAÇU", "longitude": -45.365202778489625, "latitude": -23.801861111323703
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "REGULAR", "municipio": "ILHABELA", "ano_2024": "REGULAR", "ano_2023": "REGULAR", "praia": "PEREQUÊ", "longitude": -45.36532500000202, "latitude": -23.807255556031965
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "BOA", "municipio": "ILHABELA", "ano_2024": "REGULAR", "ano_2023": "REGULAR", "praia": "ILHA DAS CABRAS", "longitude": -45.39042777802921, "latitude": -23.830377777894995
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "RUIM", "ano_2021": "RUIM", "ano_2020": "PESSIMA", "municipio": "ILHABELA", "ano_2024": "RUIM", "ano_2023": "RUIM", "praia": "PORTINHO", "longitude": -45.40473888861137, "latitude": -23.844052778140714
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "REGULAR", "municipio": "ILHABELA", "ano_2024": "REGULAR", "ano_2023": "REGULAR", "praia": "FEITICEIRA", "longitude": -45.408777778220085, "latitude": -23.84547777845237
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "REGULAR", "municipio": "ILHABELA", "ano_2024": "REGULAR", "ano_2023": "REGULAR", "praia": "PRAIA DO JULIÃO", "longitude": -45.41408055584264, "latitude": -23.854297222038667
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "REGULAR", "municipio": "ILHABELA", "ano_2024": "REGULAR", "ano_2023": "REGULAR", "praia": "GRANDE", "longitude": -45.41683333299768, "latitude": -23.85861666694246
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "BOA", "ano_2021": "BOA", "ano_2020": "RUIM", "municipio": "ILHABELA", "ano_2024": "REGULAR", "ano_2023": "REGULAR", "praia": "CURRAL", "longitude": -45.43209166683316, "latitude": -23.866730556689266
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "REGULAR", "ano_2021": "RUIM", "ano_2020": "RUIM", "municipio": "ILHABELA", "ano_2024": "REGULAR", "ano_2023": "REGULAR", "praia": "VELOSO", "longitude": -45.43522777782414, "latitude": -23.870497222304458
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "REGULAR", "ano_2021": "BOA", "ano_2020": "BOA", "municipio": "BERTIOGA", "ano_2024": "BOA", "ano_2023": "BOA", "praia": "BORACEIA - COLÉGIO MARISTA", "longitude": -45.85416111130091, "latitude": -23.757325000714104
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "REGULAR", "ano_2021": "BOA", "ano_2020": "REGULAR", "municipio": "BERTIOGA", "ano_2024": "BOA", "ano_2023": "BOA", "praia": "BORACEIA - SUL", "longitude": -45.8748555556727, "latitude": -23.76006388953484
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "REGULAR", "ano_2021": "BOA", "ano_2020": "OTIMA", "municipio": "BERTIOGA", "ano_2024": "BOA", "ano_2023": "BOA", "praia": "GUARATUBA", "longitude": -45.922075000129176, "latitude": -23.768669444490087
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "BOA", "ano_2021": "BOA", "ano_2020": "BOA", "municipio": "BERTIOGA", "ano_2024": "BOA", "ano_2023": "REGULAR", "praia": "SÃO LOURENÇO - MORRO", "longitude": -46.00313611062758, "latitude": -23.798338889610307
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "BOA", "ano_2021": "BOA", "ano_2020": "REGULAR", "municipio": "BERTIOGA", "ano_2024": "BOA", "ano_2023": "BOA", "praia": "SÃO LOURENÇO  - L. COQUEIROS", "longitude": -46.02078055624512, "latitude": -23.80292777866705
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "REGULAR", "ano_2021": "BOA", "ano_2020": "BOA", "municipio": "BERTIOGA", "ano_2024": "BOA", "ano_2023": "BOA", "praia": "ENSEADA - INDAIÁ", "longitude": -46.049130555663204, "latitude": -23.816680556376298
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "BOA", "municipio": "BERTIOGA", "ano_2024": "BOA", "ano_2023": "BOA", "praia": "ENSEADA - VISTA LINDA", "longitude": -46.07810000001641, "latitude": -23.816672222419765
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "BOA", "municipio": "BERTIOGA", "ano_2024": "REGULAR", "ano_2023": "REGULAR", "praia": "ENSEADA - SESC", "longitude": -46.11115833309148, "latitude": -23.831122222133732
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "BOA", "municipio": "BERTIOGA", "ano_2024": "REGULAR", "ano_2023": "REGULAR", "praia": "ENSEADA - COSTÁBILI", "longitude": -46.13228888873702, "latitude": -23.847025000037146
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "BOA", "ano_2021": "BOA", "ano_2020": "BOA", "municipio": "CUBATÃO", "ano_2024": "BOA", "ano_2023": "BOA", "praia": "RIO PEREQUÊ", "longitude": -46.41678333282812, "latitude": -23.847883333677913
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "PESSIMA", "ano_2021": "PESSIMA", "ano_2020": "RUIM", "municipio": "SANTOS", "ano_2024": "RUIM", "ano_2023": "RUIM", "praia": "PONTA DA PRAIA", "longitude": -46.30894444419919, "latitude": -23.986236111561148
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "PESSIMA", "ano_2021": "RUIM", "ano_2020": "PESSIMA", "municipio": "SANTOS", "ano_2024": "REGULAR", "ano_2023": "RUIM", "praia": "APARECIDA", "longitude": -46.312861110981856, "latitude": -23.980991667281973
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "PESSIMA", "ano_2021": "PESSIMA", "ano_2020": "RUIM", "municipio": "SANTOS", "ano_2024": "REGULAR", "ano_2023": "RUIM", "praia": "EMBARÉ", "longitude": -46.31897499973685, "latitude": -23.976305556509292
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "PESSIMA", "ano_2021": "PESSIMA", "ano_2020": "PESSIMA", "municipio": "SANTOS", "ano_2024": "RUIM", "ano_2023": "PESSIMA", "praia": "BOQUEIRÃO", "longitude": -46.32561944421207, "latitude": -23.97253611116994
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "PESSIMA", "ano_2021": "PESSIMA", "ano_2020": "PESSIMA", "municipio": "SANTOS", "ano_2024": "RUIM", "ano_2023": "PESSIMA", "praia": "GONZAGA", "longitude": -46.33290833314278, "latitude": -23.970172222272634
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "PESSIMA", "ano_2021": "PESSIMA", "ano_2020": "PESSIMA", "municipio": "SANTOS", "ano_2024": "RUIM", "ano_2023": "PESSIMA", "praia": "JOSÉ MENINO - R. OLAVO BILAC", "longitude": -46.342308332663364, "latitude": -23.9688166676965
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "PESSIMA", "ano_2021": "PESSIMA", "ano_2020": "PESSIMA", "municipio": "SANTOS", "ano_2024": "REGULAR", "ano_2023": "RUIM", "praia": "JOSÉ MENINO - R. FRED. OZANAN", "longitude": -46.34842222241678, "latitude": -23.968725000185447
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "PESSIMA", "ano_2021": "REGULAR", "ano_2020": "REGULAR", "municipio": "SÃO VICENTE", "ano_2024": "RUIM", "ano_2023": "PESSIMA", "praia": "PRAIA DA DIVISA", "longitude": -46.35904166683796, "latitude": -23.969436111177096
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "RUIM", "ano_2021": "REGULAR", "ano_2020": "REGULAR", "municipio": "SÃO VICENTE", "ano_2024": "REGULAR", "ano_2023": "RUIM", "praia": "ITARARÉ - POSTO 2", "longitude": -46.365644443831926, "latitude": -23.971102778211787
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "REGULAR", "municipio": "SÃO VICENTE", "ano_2024": "REGULAR", "ano_2023": "REGULAR", "praia": "PRAIA DA ILHA PORCHAT", "longitude": -46.369374999596566, "latitude": -23.973425000391607
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "PESSIMA", "ano_2021": "PESSIMA", "ano_2020": "RUIM", "municipio": "SÃO VICENTE", "ano_2024": "PESSIMA", "ano_2023": "PESSIMA", "praia": "MILIONÁRIOS", "longitude": -46.37229722170431, "latitude": -23.9739138894383
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "PESSIMA", "ano_2021": "PESSIMA", "ano_2020": "PESSIMA", "municipio": "SÃO VICENTE", "ano_2024": "PESSIMA", "ano_2023": "PESSIMA", "praia": "GONZAGUINHA", "longitude": -46.38125277775466, "latitude": -23.96939166740849
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "PESSIMA", "ano_2021": "PESSIMA", "ano_2020": "PESSIMA", "municipio": "SÃO VICENTE", "ano_2024": "PESSIMA", "ano_2023": "PESSIMA", "praia": "PRAINHA", "longitude": -46.385494444061855, "latitude": -23.97833888918401
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "RUIM", "ano_2021": "RUIM", "ano_2020": "RUIM", "municipio": "PRAIA GRANDE", "ano_2024": "RUIM", "ano_2023": "REGULAR", "praia": "CANTO DO FORTE", "longitude": -46.40480833279377, "latitude": -24.014936111617377
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "PESSIMA", "municipio": "PRAIA GRANDE", "ano_2024": "PESSIMA", "ano_2023": "PESSIMA", "praia": "BOQUEIRÃO", "longitude": -46.413027777676234, "latitude": -24.01375000003159
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "RUIM", "municipio": "PRAIA GRANDE", "ano_2024": "RUIM", "ano_2023": "RUIM", "praia": "GUILHERMINA", "longitude": -46.428063889435954, "latitude": -24.015244444330378
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "RUIM", "municipio": "PRAIA GRANDE", "ano_2024": "RUIM", "ano_2023": "RUIM", "praia": "AVIAÇÃO", "longitude": -46.44117777765182, "latitude": -24.018544444114525
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "PESSIMA", "municipio": "PRAIA GRANDE", "ano_2024": "PESSIMA", "ano_2023": "PESSIMA", "praia": "VILA TUPI", "longitude": -46.457308333175654, "latitude": -24.023772222316968
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "REGULAR", "ano_2021": "RUIM", "ano_2020": "REGULAR", "municipio": "PRAIA GRANDE", "ano_2024": "REGULAR", "ano_2023": "RUIM", "praia": "OCIAN", "longitude": -46.47376388884772, "latitude": -24.029575000558026
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "PESSIMA", "ano_2021": "RUIM", "ano_2020": "RUIM", "municipio": "PRAIA GRANDE", "ano_2024": "PESSIMA", "ano_2023": "PESSIMA", "praia": "VILA MIRIM", "longitude": -46.485761111266875, "latitude": -24.033911111666107
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "RUIM", "ano_2021": "RUIM", "ano_2020": "RUIM", "municipio": "PRAIA GRANDE", "ano_2024": "PESSIMA", "ano_2023": "PESSIMA", "praia": "MARACANÃ", "longitude": -46.502319443783676, "latitude": -24.04094722200998
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "RUIM", "ano_2021": "RUIM", "ano_2020": "RUIM", "municipio": "PRAIA GRANDE", "ano_2024": "RUIM", "ano_2023": "RUIM", "praia": "VILA CAIÇARA", "longitude": -46.52719166651012, "latitude": -24.052097222337707
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "REGULAR", "ano_2021": "RUIM", "ano_2020": "PESSIMA", "municipio": "PRAIA GRANDE", "ano_2024": "RUIM", "ano_2023": "RUIM", "praia": "REAL", "longitude": -46.553761110895195, "latitude": -24.06435277874309
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "RUIM", "ano_2021": "REGULAR", "ano_2020": "RUIM", "municipio": "PRAIA GRANDE", "ano_2024": "PESSIMA", "ano_2023": "RUIM", "praia": "BALNEÁRIO FLÓRIDA", "longitude": -46.57358888895932, "latitude": -24.073516667406512
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "PESSIMA", "ano_2021": "RUIM", "ano_2020": "PESSIMA", "municipio": "PRAIA GRANDE", "ano_2024": "RUIM", "ano_2023": "PESSIMA", "praia": "JARDIM SOLEMAR", "longitude": -46.59379444382052, "latitude": -24.08341111124961
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "REGULAR", "ano_2021": "RUIM", "ano_2020": "REGULAR", "municipio": "MONGAGUÁ", "ano_2024": "RUIM", "ano_2023": "REGULAR", "praia": "VILA SÃO PAULO", "longitude": -46.60951944436625, "latitude": -24.091163889609255
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "RUIM", "ano_2021": "RUIM", "ano_2020": "RUIM", "municipio": "MONGAGUÁ", "ano_2024": "PESSIMA", "ano_2023": "RUIM", "praia": "CENTRAL", "longitude": -46.621913888985084, "latitude": -24.097291666936822
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "RUIM", "ano_2021": "RUIM", "ano_2020": "PESSIMA", "municipio": "MONGAGUÁ", "ano_2024": "PESSIMA", "ano_2023": "PESSIMA", "praia": "VERA CRUZ", "longitude": -46.64135555593926, "latitude": -24.106944443845403
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "RUIM", "ano_2021": "RUIM", "ano_2020": "PESSIMA", "municipio": "MONGAGUÁ", "ano_2024": "PESSIMA", "ano_2023": "PESSIMA", "praia": "SANTA EUGÊNIA", "longitude": -46.65520833320466, "latitude": -24.114108332918846
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "RUIM", "ano_2021": "RUIM", "ano_2020": "PESSIMA", "municipio": "MONGAGUÁ", "ano_2024": "RUIM", "ano_2023": "RUIM", "praia": "ITAÓCA", "longitude": -46.66598055595515, "latitude": -24.119372222489798
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "RUIM", "ano_2021": "RUIM", "ano_2020": "RUIM", "municipio": "MONGAGUÁ", "ano_2024": "RUIM", "ano_2023": "RUIM", "praia": "AGENOR DE CAMPOS", "longitude": -46.686794444455366, "latitude": -24.130297222549164
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "RUIM", "ano_2021": "RUIM", "ano_2020": "PESSIMA", "municipio": "MONGAGUÁ", "ano_2024": "RUIM", "ano_2023": "REGULAR", "praia": "FLÓRIDA MIRIM", "longitude": -46.70558611055911, "latitude": -24.140644444191715
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "REGULAR", "ano_2021": "RUIM", "ano_2020": "REGULAR", "municipio": "ITANHAÉM", "ano_2024": "REGULAR", "ano_2023": "REGULAR", "praia": "CAMPOS ELÍSEOS", "longitude": -46.721741666539415, "latitude": -24.15018611154962
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "REGULAR", "municipio": "ITANHAÉM", "ano_2024": "REGULAR", "ano_2023": "REGULAR", "praia": "SUARÃO", "longitude": -46.73651666744721, "latitude": -24.158116667189933
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "REGULAR", "ano_2021": "RUIM", "ano_2020": "RUIM", "municipio": "ITANHAÉM", "ano_2024": "REGULAR", "ano_2023": "REGULAR", "praia": "SUARÃO - AFPESP", "longitude": -46.74989166720074, "latitude": -24.165811111004285
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "RUIM", "municipio": "ITANHAÉM", "ano_2024": "REGULAR", "ano_2023": "REGULAR", "praia": "PARQUE BALNEÁRIO", "longitude": -46.765291667127826, "latitude": -24.1744111111198
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "RUIM", "ano_2021": "RUIM", "ano_2020": "PESSIMA", "municipio": "ITANHAÉM", "ano_2024": "RUIM", "ano_2023": "BOA", "praia": "CENTRO", "longitude": -46.786888889384336, "latitude": -24.185877778068726
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "REGULAR", "municipio": "ITANHAÉM", "ano_2024": "REGULAR", "ano_2023": "REGULAR", "praia": "PRAIA DOS PESCADORES", "longitude": -46.79410555614159, "latitude": -24.19178055585984
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "REGULAR", "ano_2021": "RUIM", "ano_2020": "REGULAR", "municipio": "ITANHAÉM", "ano_2024": "REGULAR", "ano_2023": "REGULAR", "praia": "SONHO", "longitude": -46.797919443675056, "latitude": -24.1933527779711
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "REGULAR", "municipio": "ITANHAÉM", "ano_2024": "REGULAR", "ano_2023": "REGULAR", "praia": "JARDIM CIBRATEL", "longitude": -46.81844722158343, "latitude": -24.201991667173118
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "REGULAR", "ano_2021": "RUIM", "ano_2020": "REGULAR", "municipio": "ITANHAÉM", "ano_2024": "REGULAR", "ano_2023": "REGULAR", "praia": "ESTÂNCIA BALNEÁRIO", "longitude": -46.83441944425835, "latitude": -24.21079444406088
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "REGULAR", "municipio": "ITANHAÉM", "ano_2024": "REGULAR", "ano_2023": "REGULAR", "praia": "JARDIM SÃO FERNANDO", "longitude": -46.85144444396929, "latitude": -24.22127777796168
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "REGULAR", "ano_2021": "RUIM", "ano_2020": "RUIM", "municipio": "ITANHAÉM", "ano_2024": "REGULAR", "ano_2023": "REGULAR", "praia": "BALN. JD. REGINA", "longitude": -46.86644722247024, "latitude": -24.23131666722463
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "REGULAR", "municipio": "ITANHAÉM", "ano_2024": "REGULAR", "ano_2023": "REGULAR", "praia": "BALNEÁRIO GAIVOTA", "longitude": -46.88313888889739, "latitude": -24.24148333316363
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "BOA", "municipio": "PERUÍBE", "ano_2024": "REGULAR", "ano_2023": "REGULAR", "praia": "ICARAÍBA", "longitude": -46.94359166691141, "latitude": -24.281269444512652
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "REGULAR", "municipio": "PERUÍBE", "ano_2024": "BOA", "ano_2023": "REGULAR", "praia": "PARQUE TURÍSTICO", "longitude": -46.962788888894565, "latitude": -24.29593888892315
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "REGULAR", "ano_2021": "RUIM", "ano_2020": "RUIM", "municipio": "PERUÍBE", "ano_2024": "REGULAR", "ano_2023": "REGULAR", "praia": "BALN. SÃO JOÃO", "longitude": -46.978219443966495, "latitude": -24.30905555666169
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "RUIM", "ano_2021": "REGULAR", "ano_2020": "RUIM", "municipio": "PERUÍBE", "ano_2024": "REGULAR", "ano_2023": "REGULAR", "praia": "AV. SÃO JOÃO", "longitude": -46.99504444439951, "latitude": -24.324697222357145
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "RUIM", "municipio": "PERUÍBE", "ano_2024": "REGULAR", "ano_2023": "REGULAR", "praia": "PRAINHA", "longitude": -47.00073888875823, "latitude": -24.349641667035474
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "REGULAR", "municipio": "PERUÍBE", "ano_2024": "BOA", "ano_2023": "BOA", "praia": "GUARAÚ", "longitude": -47.01203888923526, "latitude": -24.368911111707916
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "OTIMA", "ano_2021": "OTIMA", "ano_2020": "SEM DADO", "municipio": "UBATUBA - ILHA ANCHIETA", "ano_2024": "OTIMA", "ano_2023": "BOA", "praia": "PRAIA DAS PALMAS", "longitude": -45.07398888892123, "latitude": -23.53838611121255
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "OTIMA", "ano_2021": "OTIMA", "ano_2020": "SEM DADO", "municipio": "UBATUBA - ILHA ANCHIETA", "ano_2024": "OTIMA", "ano_2023": "BOA", "praia": "PRAIA DO SAPATEIRO", "longitude": -45.06736666713771, "latitude": -23.538994444686292
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "OTIMA", "ano_2021": "OTIMA", "ano_2020": "SEM DADO", "municipio": "UBATUBA - ILHA ANCHIETA", "ano_2024": "OTIMA", "ano_2023": "BOA", "praia": "PRAIA DO PRESÍDIO", "longitude": -45.065347222016726, "latitude": -23.538877778002703
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "OTIMA", "ano_2021": "BOA", "ano_2020": "SEM DADO", "municipio": "UBATUBA - ILHA ANCHIETA", "ano_2024": "BOA", "ano_2023": "BOA", "praia": "PRAIA DO ENGENHO", "longitude": -45.06199444368774, "latitude": -23.53625000068595
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "BOA", "ano_2021": "OTIMA", "ano_2020": "SEM DADO", "municipio": "UBATUBA - ILHA ANCHIETA", "ano_2024": "BOA", "ano_2023": "BOA", "praia": "PRAIA DE FORA", "longitude": -45.06074999959569, "latitude": -23.534416667505585
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "BOA", "ano_2021": "OTIMA", "ano_2020": "SEM DADO", "municipio": "UBATUBA - ILHA ANCHIETA", "ano_2024": "BOA", "ano_2023": "OTIMA", "praia": "PRAIA DO SUL", "longitude": -45.07774444357234, "latitude": -23.54607222248149
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "BOA", "ano_2021": "BOA", "ano_2020": "SEM DADO", "municipio": "UBATUBA - ILHA ANCHIETA", "ano_2024": "OTIMA", "ano_2023": "BOA", "praia": "PRAINHA DO LESTE", "longitude": -45.04526111057659, "latitude": -23.53488333356171
+    },
+    {"ugrhi": "LITORAL SUL", "ano_2022": "BOA", "ano_2021": "OTIMA", "ano_2020": "SEM DADO", "municipio": "IGUAPE", "ano_2024": "OTIMA", "ano_2023": "OTIMA", "praia": "JURÉIA", "longitude": -47.38430000001575, "latitude": -24.654083333320354
+    },
+    {"ugrhi": "LITORAL SUL", "ano_2022": "BOA", "ano_2021": "OTIMA", "ano_2020": "SEM DADO", "municipio": "ILHA COMPRIDA", "ano_2024": "OTIMA", "ano_2023": "OTIMA", "praia": "BALNEÁRIO ADRIANA", "longitude": -47.5297249997587, "latitude": -24.736933332859575
+    },
+    {"ugrhi": "LITORAL SUL", "ano_2022": "OTIMA", "ano_2021": "OTIMA", "ano_2020": "SEM DADO", "municipio": "ILHA COMPRIDA", "ano_2024": "BOA", "ano_2023": "OTIMA", "praia": "CENTRO", "longitude": -47.55188611139124, "latitude": -24.749825000339207
+    },
+    {"ugrhi": "LITORAL SUL", "ano_2022": "OTIMA", "ano_2021": "OTIMA", "ano_2020": "SEM DADO", "municipio": "ILHA COMPRIDA", "ano_2024": "BOA", "ano_2023": "BOA", "praia": "PONTAL", "longitude": -47.88319444380902, "latitude": -25.028758333204088
+    },
+    {"ugrhi": "LITORAL SUL", "ano_2022": "BOA", "ano_2021": "BOA", "ano_2020": "SEM DADO", "municipio": "ILHA COMPRIDA", "ano_2024": "BOA", "ano_2023": "BOA", "praia": "PRAINHA (BALSA)", "longitude": -47.91790277823121, "latitude": -25.020616667096473
+    },
+    {"ugrhi": "LITORAL NORTE", "ano_2022": "BOA", "ano_2021": "REGULAR", "ano_2020": "BOA", "municipio": "CARAGUATATUBA", "ano_2024": "BOA", "ano_2023": "REGULAR", "praia": "MASSAGUAÇU", "longitude": -45.32666944367457, "latitude": -23.583405555881267
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "OTIMA", "ano_2021": "BOA", "ano_2020": "SEM DADO", "municipio": "GUARUJÁ", "ano_2024": "OTIMA", "ano_2023": "BOA", "praia": "IPORANGA", "longitude": -46.15320277834769, "latitude": -23.901411111690923
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "PESSIMA", "ano_2021": "PESSIMA", "ano_2020": "PESSIMA", "municipio": "GUARUJÁ", "ano_2024": "PESSIMA", "ano_2023": "PESSIMA", "praia": "PEREQUÊ", "longitude": -46.18069166740341, "latitude": -23.935502778618105
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "BOA", "ano_2021": "BOA", "ano_2020": "BOA", "municipio": "GUARUJÁ", "ano_2024": "BOA", "ano_2023": "REGULAR", "praia": "PERNAMBUCO", "longitude": -46.1851861113759, "latitude": -23.964925000449863
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "RUIM", "municipio": "GUARUJÁ", "ano_2024": "REGULAR", "ano_2023": "REGULAR", "praia": "ENSEADA - ESTR. PERNAMBUCO", "longitude": -46.204891667412255, "latitude": -23.98834444432998
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "RUIM", "municipio": "GUARUJÁ", "ano_2024": "REGULAR", "ano_2023": "REGULAR", "praia": "ENSEADA - R. URUGUAI", "longitude": -46.221883332575906, "latitude": -23.98575277825633
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "RUIM", "ano_2021": "RUIM", "ano_2020": "RUIM", "municipio": "GUARUJÁ", "ano_2024": "REGULAR", "ano_2023": "RUIM", "praia": "ENSEADA - R. CHILE", "longitude": -46.231491667439876, "latitude": -23.987336110998925
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "RUIM", "municipio": "GUARUJÁ", "ano_2024": "REGULAR", "ano_2023": "RUIM", "praia": "ENSEADA - AV. STA. MARIA", "longitude": -46.244313888642914, "latitude": -23.990908333196064
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "REGULAR", "municipio": "GUARUJÁ", "ano_2024": "REGULAR", "ano_2023": "REGULAR", "praia": "PITANGUEIRAS - AV. PUGLISI", "longitude": -46.255355556331395, "latitude": -23.99714722240807
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "REGULAR", "ano_2021": "RUIM", "ano_2020": "REGULAR", "municipio": "GUARUJÁ", "ano_2024": "BOA", "ano_2023": "REGULAR", "praia": "PITANGUEIRAS - R. S. VALADÃO", "longitude": -46.26262777751862, "latitude": -24.000422222133054
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "REGULAR", "ano_2021": "REGULAR", "ano_2020": "REGULAR", "municipio": "GUARUJÁ", "ano_2024": "REGULAR", "ano_2023": "REGULAR", "praia": "ASTÚRIAS", "longitude": -46.26881111111763, "latitude": -24.008363889438463
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "BOA", "ano_2021": "BOA", "ano_2020": "BOA", "municipio": "GUARUJÁ", "ano_2024": "BOA", "ano_2023": "BOA", "praia": "TOMBO", "longitude": -46.27368888940387, "latitude": -24.01441944438275
+    },
+    {"ugrhi": "BAIXADA SANTISTA", "ano_2022": "BOA", "ano_2021": "REGULAR", "ano_2020": "REGULAR", "municipio": "GUARUJÁ", "ano_2024": "BOA", "ano_2023": "BOA", "praia": "GUAIÚBA", "longitude": -46.2934194439863, "latitude": -24.016294443861746
+    }
+]
