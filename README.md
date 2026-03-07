@@ -1,10 +1,10 @@
 # Open Data Day 2026
 
 
-__O Dia dos Dados Abertos (ODD, na sigla em inglês)__ é uma celebração anual dos dados abertos em todo o mundo. Grupos de praticamente todos os países criam eventos locais neste dia, nos quais utilizam dados abertos em suas comunidades. O ODD é mantido e apoiado pela [Open Knowledge Foundation](https://okfn.org/en/) por meio da [Open Knowledge Network](https://okfn.org/en/network/).
+__O Dia dos Dados Abertos (ODD, na sigla em inglês)__ é uma celebração anual dos dados abertos em todo o mundo. Grupos de vários países criam eventos locais neste dia, nos quais utilizam dados abertos em suas comunidades. O ODD é mantido e apoiado pela [Open Knowledge Foundation](https://okfn.org/en/) por meio da [Open Knowledge Network](https://okfn.org/en/network/).
 
 
-Este ano realizaremos o evento em parceria com a comunidade [Sociedade Pinguim](https://sociedadepinguim.com.br/), entusiastas de tecnologia e softwares livres como Linux.
+Este ano realizamos o evento em parceria com a comunidade [Sociedade Pinguim](https://sociedadepinguim.com.br/), entusiastas de tecnologia e softwares livres como Linux.
 
 ## __Datas dos Encontros:__
 * Primeiro "Esquenta"
